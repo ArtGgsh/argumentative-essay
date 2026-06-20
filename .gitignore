@@ -1,0 +1,12 @@
+# Reasonix skill metadata
+.reasonix/
+
+# Runtime-generated logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
