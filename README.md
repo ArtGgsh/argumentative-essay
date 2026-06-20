@@ -17,11 +17,12 @@
 </p>
 
 <p align="center">
-  <b><a href="#中文">🇨🇳 中文</a> | <a href="#english">🇺🇸 English</a> | <a href="#한국어">🇰🇷 한국어</a> | <a href="#日本語">🇯🇵 日本語</a></b>
+  <b><a href="#zh">🇨🇳 中文</a> | <a href="#en">🇺🇸 English</a> | <a href="#ko">🇰🇷 한국어</a> | <a href="#ja">🇯🇵 日本語</a></b>
 </p>
 
 ---
 
+<a name="zh"></a>
 ## 🇨🇳 中文
 
 ### 这是什么
@@ -102,6 +103,7 @@ references/
 
 ---
 
+<a name="en"></a>
 ## 🇺🇸 English
 
 ### What Is This
@@ -182,6 +184,7 @@ references/
 
 ---
 
+<a name="ko"></a>
 ## 🇰🇷 한국어
 
 ### 소개
@@ -262,6 +265,7 @@ references/
 
 ---
 
+<a name="ja"></a>
 ## 🇯🇵 日本語
 
 ### 概要
